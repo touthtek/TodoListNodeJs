@@ -1,0 +1,25 @@
+<html>
+  <head>
+  <title></title>
+  <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+  <div class="mainboxdiv">
+   <h4 class="dateboxdiv"><%= value %></h4>
+   <br/>
+   <div class="itemdiv">
+      <ul>
+      <%  for(var i = 0; i < newItem.length; i++){ %>
+          <li><%= newItem[i] %></li>
+
+      <% } %>
+        
+      </ul>
+      <br/>
+      <form action="/" method="post">
+      <input type="text" name="addItem"><button>add</button>
+      </form
+   </div>
+  </div>
+  </body>
+  </html>

@@ -1,0 +1,25 @@
+.mainboxdiv {
+    padding: 20px;
+    width: 300px;
+   
+    margin: 0 auto;
+  }
+  .dateboxdiv {
+    background-color:green;
+    color:#fff;
+    width: 250px;
+    margin-bottom : 10px;
+    padding : 10px;
+    text-align:center;
+   
+    margin: 0 auto;
+  }
+  .itemdiv {
+    background-color:lightpink;
+    width: 250px;
+    margin-top : 20px; 
+    margin: 0 auto;
+    padding : 10px;
+    
+  }
+  

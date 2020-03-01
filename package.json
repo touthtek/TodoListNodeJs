@@ -1,0 +1,27 @@
+{
+  "name": "todolistnodejs",
+  "version": "1.0.0",
+  "description": "todo list using nodejs, expressjs, ejs",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dateformat": "^3.0.3",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touthtek/TodoListNodeJs.git"
+  },
+  "author": "Olu-Johnson Oluwatosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touthtek/TodoListNodeJs/issues"
+  },
+  "homepage": "https://github.com/touthtek/TodoListNodeJs#readme"
+}
